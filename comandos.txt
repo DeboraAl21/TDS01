@@ -35,7 +35,7 @@ configura o email fo githube
 git config --global user.email "<seu-email-cadastrado-no@git.com>"
 
 mostra todas as configurações que temos já feito
-git config --global --list
+git config --global --listar
 
 manda nossas alterações locais para o repositório remoto, para cada branch
 git remote add origin <nome-da-branch>
